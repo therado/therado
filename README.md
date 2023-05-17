@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello I'm therado</h1>
 <h3 align="center"> PHP Developer</h3>
 
-- 🔭 I’m currently working on **CMS sports team management**
+- 🔭 I’m currently working on **CMS Football Academy team management**
 
 - 🌱 I’m currently learning and developing **Symfony, CS50**
 
