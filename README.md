@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello I'm therado</h1>
-<h3 align="center">Newbie PHP Developer</h3>
+<h3 align="center"> PHP Developer</h3>
 
 - 🔭 I’m currently working on **CMS sports team management**
 
