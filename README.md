@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [radoslaw.dev](radoslaw.dev)
 
-- 📝 I regularly write articles on [radoslaw.dev/blog](radoslaw.dev/blog)
-
-- 📫 How to reach me **radochowanski@gmail.com**
+- 📫 How to reach me **choovaansky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
