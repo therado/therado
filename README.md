@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning and developing **Symfony, CS50**
 
-- 👨‍💻 All of my projects are available at **in build** [radoslaw.dev](radoslaw.dev)
+- 👨‍💻 All of my projects are available at **in build** 
 
 - 📫 How to reach me **choovaansky@gmail.com**
 
