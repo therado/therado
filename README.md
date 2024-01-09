@@ -1,13 +1,7 @@
 <h1 align="center">👋 Hello I'm therado</h1>
 <h3 align="center"> PHP Developer</h3>
 
-- 🔭 I’m currently working on **CMS Football Academy**
 
-- 🌱 I’m currently learning and developing **Symfony, CS50**
-
-- 👨‍💻 All of my projects are available at **in build** 
-
-- 📫 How to reach me **choovaansky@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
